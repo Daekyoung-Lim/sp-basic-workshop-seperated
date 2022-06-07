@@ -1,0 +1,7 @@
+C:\ssp_workspace\ssp_cs_test\Question1\obj\Debug\Question1.csproj.AssemblyReference.cache
+C:\ssp_workspace\ssp_cs_test\Question1\obj\Debug\Question1.csproj.CoreCompileInputs.cache
+C:\ssp_workspace\ssp_cs_test\Question1\Question1.exe.config
+C:\ssp_workspace\ssp_cs_test\Question1\obj\Debug\Question1.exe
+C:\ssp_workspace\ssp_cs_test\Question1\obj\Debug\Question1.pdb
+C:\ssp_workspace\ssp_cs_test\Question1\Question1.exe
+C:\ssp_workspace\ssp_cs_test\Question1\Question1.pdb
